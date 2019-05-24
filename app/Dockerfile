@@ -12,5 +12,5 @@ RUN dotnet publish -c Release -o /dist .
 
 FROM mcr.microsoft.com/dotnet/core/runtime:2.2
 WORKDIR /app
-COPY --from=build-env /app/dist .
+COPY --from=build-env /dist .
 ENTRYPOINT ["dotnet", "api.dll"]
