@@ -6,7 +6,9 @@ COPY src/. /app/
 COPY build/*.sh /scripts/
 
 RUN chmod +x /scripts/*.sh
-RUN /scripts/compile.sh
+
+WORKDIR /
+RUN /app/scripts/compile.sh
 
 
 FROM mcr.microsoft.com/dotnet/core/runtime:2.2
