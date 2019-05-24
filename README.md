@@ -34,3 +34,10 @@ docker build -t armandomiani/docker-dotnetcore app/
 docker run -it -p 6700:80 armandomiani/docker-dotnetcore:latest
 ```
 
+
+#### Docker Hub
+
+Running from Docker Hub
+```
+docker run -it -p 6700:80 armandomiani/docker-dotnetcore:latest
+```
