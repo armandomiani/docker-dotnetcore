@@ -1,1 +1,1 @@
-dotnet dist/api.dll
+dotnet .\app\dist\api.dll
