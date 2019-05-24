@@ -6,6 +6,6 @@ COPY src/. /app/
 COPY build/*.sh /scripts/
 
 RUN chmod +x /scripts/*.sh
-RUN /scripts/build.sh
+RUN /scripts/compile.sh
 
 CMD [ "scripts/start.sh" ]
