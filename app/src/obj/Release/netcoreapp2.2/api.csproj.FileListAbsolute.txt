@@ -1,0 +1,14 @@
+C:\dev\docker-dotnetcore\app\src\bin\Release\netcoreapp2.2\api.deps.json
+C:\dev\docker-dotnetcore\app\src\bin\Release\netcoreapp2.2\api.runtimeconfig.json
+C:\dev\docker-dotnetcore\app\src\bin\Release\netcoreapp2.2\api.runtimeconfig.dev.json
+C:\dev\docker-dotnetcore\app\src\bin\Release\netcoreapp2.2\api.dll
+C:\dev\docker-dotnetcore\app\src\bin\Release\netcoreapp2.2\api.pdb
+C:\dev\docker-dotnetcore\app\src\obj\Release\netcoreapp2.2\api.csprojAssemblyReference.cache
+C:\dev\docker-dotnetcore\app\src\obj\Release\netcoreapp2.2\api.csproj.CoreCompileInputs.cache
+C:\dev\docker-dotnetcore\app\src\obj\Release\netcoreapp2.2\api.RazorAssemblyInfo.cache
+C:\dev\docker-dotnetcore\app\src\obj\Release\netcoreapp2.2\api.RazorAssemblyInfo.cs
+C:\dev\docker-dotnetcore\app\src\obj\Release\netcoreapp2.2\api.AssemblyInfoInputs.cache
+C:\dev\docker-dotnetcore\app\src\obj\Release\netcoreapp2.2\api.AssemblyInfo.cs
+C:\dev\docker-dotnetcore\app\src\obj\Release\netcoreapp2.2\api.RazorTargetAssemblyInfo.cache
+C:\dev\docker-dotnetcore\app\src\obj\Release\netcoreapp2.2\api.dll
+C:\dev\docker-dotnetcore\app\src\obj\Release\netcoreapp2.2\api.pdb
