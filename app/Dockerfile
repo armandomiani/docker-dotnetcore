@@ -6,7 +6,7 @@ COPY src/. /app/
 COPY build/*.sh /scripts/
 
 RUN chmod +x /scripts/*.sh
-ENTRYPOINT [ "tail -f /dev/null" ]
+
 # RUN dotnet publish -c Release -o dist/ /src
 
 
