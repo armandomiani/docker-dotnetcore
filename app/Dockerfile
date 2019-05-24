@@ -6,9 +6,7 @@ COPY src/. /app/
 COPY build/*.sh /scripts/
 
 RUN chmod +x /scripts/*.sh
-
-WORKDIR /
-RUN /app/scripts/compile.sh
+RUN dotnet publish -c Release -o dist/ /src
 
 
 FROM mcr.microsoft.com/dotnet/core/runtime:2.2
