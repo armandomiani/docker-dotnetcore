@@ -25,3 +25,12 @@ On Powershell:
 
 On Linux:
 ```.\app\build\start.sh```
+
+#### Docker
+
+Running the Local API Container:
+```
+docker build -t armandomiani/docker-dotnetcore app/
+docker run -it -p 6700:80 armandomiani/docker-dotnetcore:latest
+```
+
